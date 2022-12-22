@@ -3,7 +3,7 @@ primeiro desafio do Ignite...
 
 # Sobre o desafio
 
-Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no estilo **to-do list**, que contém as seguintes funcionalidades:
+Nesse desafio, eu desenvolvi uma aplicação de controle de tarefas no estilo **to-do list**, que contém as seguintes funcionalidades:
 
 - [x] Adicionar uma nova tarefa
 - [x] Marcar e desmarcar uma tarefa como concluída
